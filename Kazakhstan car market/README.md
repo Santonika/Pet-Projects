@@ -1,13 +1,22 @@
-# Kazakhstan car market analysis. Data preprocessing.
-[ipynb](https://github.com/Santonika/Pet-Projects/blob/main/Kazakhstan%20car%20market/Kazakhstan%20car%20market%20analysis.%20Data%20preprocessing..ipynb)
+# Kazakhstan car market analysis.
+[ipynb1](https://github.com/Santonika/Pet-Projects/blob/main/Kazakhstan%20car%20market/Part%20I%20Kazakhstan%20car%20market%20analysis.%20Data%20preprocessing..ipynb)
+[ipynb2](https://github.com/Santonika/Pet-Projects/blob/main/Kazakhstan%20car%20market/Part%20II%20Kazakhstan%20car%20market%20analysis.%20.ipynb)
 
 ##  Project Description
 
-It is the first part of the pet-project of the Kazakhstan car market in the year 2019.
+It's a pet project analyzing the Kazakhstan car market in 2019. The dataset includes information about car dealers, details of sold cars, their characteristics, prices, and sales regions. Due to the messy nature of the dataset, it was divided into two parts:
 
-The goal is to edit the dataframe, (to the maximum extent) fill in the gaps and missing data, and convert all columns to the correct datatype.
+I Part: Data preprocessing:
+The goal was to clean the dataframe, fill in missing data as much as possible, and ensure all columns were in the correct datatype.
 
-The data consists of information about car dealers, details about sold cars, characteristics, prices, and sales regions.
+II Part: Data analysis:
+The objectives were:
+
+  * Determine market capacity, identify market leaders in brands and companies, and analyze regional statistics.
+  * Compare commercial and private market segments.
+  * Perform RFM analysis by brands and models.
+  * Conduct marketing analysis for the company Mercur.
+  * Provide recommendations for future strategies.
 
 
 ## Skills and Tools
@@ -24,13 +33,7 @@ The data consists of information about car dealers, details about sold cars, cha
 
 ## The following tasks have been completed:
 
-1. All numercal values has been transfered to float : engine_volume_l, price_usd, sale_usd.
-2. Integer quantity values converted to int.
-3. All car parammetrs and company names transfered to uniform format.
-4. Most of missing values filled by indirect evidence or was found in open sourse.
-5. Implicit duplicats corected.
-6. Columns engine_volume_l и drive_type splited by categories.
-7. The shift in columns: 'type_of_fuel', 'engine_volume_l', 'gearbox', has been detected.
-
-
-Dataset is ready for analisis.
+1) The data has been cleaned, segmented, and prepared for analysis.
+2) Analysis was conducted on both the entire automobile market of Kazakhstan and its segments for personal and commercial consumption.
+3) An individual analysis was performed for the company Mercur.
+4) Conclusions were drawn, and recommendations were proposed.
