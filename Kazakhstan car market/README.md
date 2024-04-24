@@ -1,6 +1,6 @@
 # Kazakhstan car market analysis.
 [ipynb1](https://github.com/Santonika/Pet-Projects/blob/main/Kazakhstan%20car%20market/Part%20I%20Kazakhstan%20car%20market%20analysis.%20Data%20preprocessing..ipynb)
-[ipynb2](https://github.com/Santonika/Pet-Projects/blob/main/Kazakhstan%20car%20market/Part%20II%20Kazakhstan%20car%20market%20analysis.%20.ipynb)
+[ipynb2](https://github.com/Santonika/Pet-Projects/blob/main/Kazakhstan%20car%20market/Part%20II%20Kazakhstan%20car%20market%20analysis.ipynb)
 
 ##  Project Description
 
